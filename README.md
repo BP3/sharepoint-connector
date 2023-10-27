@@ -61,5 +61,5 @@ To contribute to this connector, see the [CONTRIBUTING](CONTRIBUTING.md) file.
 # Licence
 Any materials for this connector contributed by Camunda (e.g. JSON config file format) are covered by 
 [Camunda's Documentation Licence](https://github.com/camunda/camunda-docs/blob/main/LICENSE.txt). 
-Overall this Connector is covered by the [Creative Commons License](License) included in this repo.
+Overall this Connector is covered by the [Creative Commons License](LICENSE) included in this repo.
 
