@@ -142,7 +142,7 @@ Make sure that the correct operation name is included in the `condition` so only
 To contribute to the project you should fork the repository and raise a pull request.
 
 ## Raise a pull request
-In the description of your pull request please supply the following details
+In the description of your pull request please supply the following details, with screen shots where possible:
 
-* Submit test results
-* tbd
+* Provide a desription of the change you have made
+* Submit results of testing you have done as part of the change

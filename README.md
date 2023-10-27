@@ -3,11 +3,11 @@ This project contains a custom Camunda 8 Connector template that provides access
 
 # How to install the connector
 
-## With Camunda Cloud
-tbd
+## With Web Modeller
+The following instructions detail how to install the conenctor template when using the Web Modeller, which can be used in a SaaS or Self-Managed environment: https://docs.camunda.io/docs/components/connectors/manage-connector-templates/#importing-existing-connector-templates
 
-## For a Self-Managed installation
-tbd
+## Within Desktop Modeller
+The following instructions detail how to install the conenctor template when using the Desktop Modeller, which can be used in a SaaS or Self-Managed environment:: https://docs.camunda.io/docs/components/modeler/desktop-modeler/element-templates/configuring-templates/
 
 # How to use the Connector in a model?
 First the Connector template needs to be uploaded to the project. Then, it can be used within a process model, for example:
